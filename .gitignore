@@ -1,0 +1,15 @@
+.venv/
+.web/
+__pycache__/
+*.pyc
+.DS_Store
+
+
+.agents/
+AGENTS.md
+CLAUDE.md
+skills-lock.jsonn_gram_generation/data/emails.csv
+n_gram_generation/data/models_cache.pkl
+skills-lock.json
+n_gram_generation/data/emails.csv
+n_gram_generation/data/models_cache.pkl
